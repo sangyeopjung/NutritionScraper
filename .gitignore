@@ -1,0 +1,4 @@
+data/
+.idea/
+*.iml
+__pycache__/
